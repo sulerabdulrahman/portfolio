@@ -1,0 +1,26 @@
+.set{
+	background-image :url(farm.jpg);
+	background-size: cover;
+	background-repeat: no;
+}
+.fav{
+	background-image:url(farm.jpg);
+}
+ul{
+	list-style-type: none;
+
+}
+li{
+	display: inline;
+	padding: 3px;
+	border:2px groove black;
+	margin: 10px;
+	text-decoration: none;
+}
+li a{
+	text-decoration: none;
+
+}
+li a:hover{
+	border: dashed orange;
+}

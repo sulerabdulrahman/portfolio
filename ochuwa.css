@@ -1,0 +1,26 @@
+.set{
+	background-image :url(butter.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+.fav{
+	background-image:url(butter.jpg);
+}
+ul{
+	list-style-type: none;
+
+}
+li{
+	display: inline;
+	padding: 3px;
+	border:2px groove black;
+	margin: 10px;
+	text-decoration: none;
+}
+li a{
+	text-decoration: none;
+
+}
+li a:hover{
+	border: dashed orange;
+}
